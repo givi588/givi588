@@ -1,63 +1,48 @@
 # Hi, I'm Givi 👋
 
-### Aspiring Software Developer | Web Applications & Automation
+### Aspiring Software Developer | Web Development & Python Automation
 
-I'm a software development learner focused on building practical, reliable, and user-friendly digital solutions.
+I'm learning software development by building practical projects that solve everyday problems. My current focus is on JavaScript web applications, Python scripting, CSV-based reporting, and automated testing.
 
-I enjoy solving problems, improving existing applications, and exploring how technology can make everyday work easier.
+I enjoy debugging, improving existing code, and turning simple business requirements into working tools.
 
-## 💻 Technical Skills
+## 🛠️ Skills I'm Practicing
 
-- HTML5 & CSS3
-- JavaScript
-- Responsive Web Design
-- DOM Manipulation
-- GitHub & GitHub Pages
-- Local Storage
-- Form Validation
-- Search, Sorting & Data Visualization
+- **Frontend:** HTML5, CSS3, JavaScript, responsive layouts, DOM manipulation
+- **Web application features:** Forms, validation, search, sorting, localStorage, and basic dashboards
+- **Python:** Functions, loops, CSV processing, file handling, and report generation
+- **Testing & tools:** `unittest`, Git, GitHub, GitHub Pages, and debugging
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### My First Website
+### 🌐 [My First Website](https://github.com/givi588/my-first-website)
 
-A responsive web application built with HTML, CSS, and JavaScript.
+An interactive HTML, CSS, and JavaScript application featuring category management, search and sorting, form validation, local storage, a dashboard, and light/dark mode.
 
-**Features:**
-- Category management (Add, Edit, Delete)
-- Search and Sorting
-- Form Validation
-- Local Storage
-- Light & Dark Mode
-- Dashboard & Statistics
-- Responsive Design
+**[View the live demo](https://givi588.github.io/my-first-website/)**
 
-🔗 [Live Website](https://givi588.github.io/my-first-website/)
+### 📊 [Python Sales Calculator](https://github.com/givi588/python-sales-calculator)
 
-💻 [Source Code](https://github.com/givi588/my-first-website)
+A beginner Python project for processing sales data from CSV files and generating reports. Focuses on practical calculations and small-business reporting workflows.
 
-## 📚 Currently Learning
+### 📦 [Python Inventory Manager](https://github.com/givi588/python-inventory-manager)
 
-- Advanced JavaScript
-- Python Programming
-- Business Process Automation
-- API Integration
-- AI-Assisted Development
-- Software Testing & Debugging
+A Python CLI tool that reads inventory data from CSV, calculates total stock value and units, flags low-stock items, and counts products that need restocking.
 
-## 🎯 Professional Goals
+**Includes 8 automated unit tests** using Python's `unittest` framework.
 
-I'm building a portfolio of practical software projects and developing my skills to contribute to international projects.
+## 📚 What I'm Learning Next
 
-I'm interested in:
-- Web Development
-- Software Development
-- Automation
-- Bug Fixing
-- Open-Source Collaboration
+- Writing Python automation scripts for real-world workflows
+- Exporting and validating reports
+- Improving test coverage and error handling
+- Building and maintaining larger web applications
+- Working with APIs and collaborating through GitHub
 
-## 🤝 Let's Connect
+## 🎯 Goals
 
-I'm open to learning opportunities, open-source collaboration, and beginner-friendly development projects.
+I'm building a portfolio step by step and working toward contributing to international software projects. I'm especially interested in web development, Python automation, debugging, and beginner-friendly open-source collaboration.
 
-Feel free to explore my repositories and connect through GitHub.
+## 🤝 Connect
+
+Explore my repositories and projects here on [GitHub](https://github.com/givi588). I'm open to learning opportunities, constructive feedback, and beginner-friendly collaboration.
