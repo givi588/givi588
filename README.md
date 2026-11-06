@@ -1,32 +1,28 @@
-# Givi
+# Software Development Portfolio
 
-I'm learning web development and Python by building small projects, testing them, and improving them as I learn.
+Browser-based tools and Python utilities focused on practical workflows, clear interfaces, reliable data handling, and automated testing.
 
-My current focus is JavaScript, Python scripting, and working with CSV data.
+## Featured Projects
 
-## Projects
+### [Category Dashboard](https://github.com/givi588/category-dashboard)
+A responsive JavaScript dashboard for managing categories, searching and sorting records, tracking totals, and protecting browser-local data with backups and recovery tools.
 
-### [Web Application](https://github.com/givi588/my-first-website)
-A browser-based category manager built with HTML, CSS, and JavaScript. It supports adding, editing, deleting, searching, and sorting categories, with data saved in local storage.
+[Live application](https://givi588.github.io/category-dashboard/)
 
-[Live demo](https://givi588.github.io/my-first-website/)
+### [Sales & Inventory Manager](https://github.com/givi588/sales-inventory-manager-clean)
+A browser-based sales and inventory tracker with stock management, sales history, validation, CSV reports, and JSON backup and restoration.
+
+[Live application](https://givi588.github.io/sales-inventory-manager-clean/)
 
 ### [Python Sales Calculator](https://github.com/givi588/python-sales-calculator)
-A Python project that reads sales data from a CSV file, calculates revenue, and writes a sales report.
+A Python utility that reads CSV sales data, calculates revenue, and writes sales reports.
 
 ### [Python Inventory Manager](https://github.com/givi588/python-inventory-manager)
-A command-line tool that reads inventory data from CSV, calculates stock value, and identifies low-stock products. Includes eight unit tests written with `unittest`.
+A Python command-line utility for inventory valuation, stock alerts, CSV processing, and automated tests.
 
-## Tools and Technologies
+## Technologies
 
 - HTML, CSS, JavaScript
 - Python, CSV processing, `unittest`
-- Git, GitHub, GitHub Pages
-
-## Currently Working On
-
-- Writing more Python code independently
-- Improving input validation and testing
-- Building useful automation scripts
-
-These are learning projects. I'm using them to practice writing, reviewing, and maintaining code.
+- Git, GitHub Actions, GitHub Pages
+- Browser storage, data validation, and automated testing
