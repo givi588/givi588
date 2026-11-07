@@ -1,28 +1,36 @@
-# Software Development Portfolio
+# Practical software for real-world workflows
 
-Browser-based tools and Python utilities focused on practical workflows, clear interfaces, reliable data handling, and automated testing.
+I build **web applications and Python tools** that make everyday business tasks easier: managing inventory, tracking sales, organizing records, and helping customers find the right products.
 
-## Featured Projects
+My focus is on **clear interfaces, predictable data handling, responsive design, and testing**. The projects below include working demos as well as source code.
 
-### [Category Dashboard](https://github.com/givi588/category-dashboard)
-A responsive JavaScript dashboard for managing categories, searching and sorting records, tracking totals, and protecting browser-local data with backups and recovery tools.
+## Featured web projects
 
-[Live application](https://givi588.github.io/category-dashboard/)
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **Category Dashboard v1.0** | Manage, filter, and summarize categories; JSON/CSV backup and import, data recovery, and automated browser checks. | [Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) |
+| **Sales & Inventory Manager** | Track stock and sales, export CSV reports, and restore local data from a JSON backup. | [Live demo](https://givi588.github.io/sales-inventory-manager-clean/) · [Code](https://github.com/givi588/sales-inventory-manager-clean) |
+| **Mira Flowers** | Georgian-language florist storefront with a product catalog, persistent shopping cart, delivery estimates, and an inquiry-based ordering flow. | [Live website](https://givi588.github.io/mira-flowers/) · [Code](https://github.com/givi588/mira-flowers) |
 
-### [Sales & Inventory Manager](https://github.com/givi588/sales-inventory-manager-clean)
-A browser-based sales and inventory tracker with stock management, sales history, validation, CSV reports, and JSON backup and restoration.
+### Category Dashboard preview
 
-[Live application](https://givi588.github.io/sales-inventory-manager-clean/)
+![Category Dashboard v1.0 desktop interface](https://raw.githubusercontent.com/givi588/category-dashboard/main/screenshots/v1-desktop.png)
 
-### [Python Sales Calculator](https://github.com/givi588/python-sales-calculator)
-A Python utility that reads CSV sales data, calculates revenue, and writes sales reports.
+## Python projects
 
-### [Python Inventory Manager](https://github.com/givi588/python-inventory-manager)
-A Python command-line utility for inventory valuation, stock alerts, CSV processing, and automated tests.
+- **[Python Inventory Manager](https://github.com/givi588/python-inventory-manager)** — CSV inventory valuation, low-stock alerts, and unit tests.
+- **[Python Sales Calculator](https://github.com/givi588/python-sales-calculator)** — CSV revenue calculations, targets, and automated report generation.
 
-## Technologies
+## Technology and approach
 
-- HTML, CSS, JavaScript
-- Python, CSV processing, `unittest`
-- Git, GitHub Actions, GitHub Pages
-- Browser storage, data validation, and automated testing
+- **Frontend:** HTML, CSS, vanilla JavaScript, responsive layouts, accessible controls.
+- **Python:** command-line utilities, CSV processing, and `unittest`.
+- **Quality:** input validation, automated tests, GitHub Actions, and written testing notes.
+- **Data:** local-first browser storage with clearly documented backup and recovery limitations.
+- **Delivery:** Git, GitHub, and GitHub Pages for lightweight static deployment.
+
+## How to explore the projects
+
+Start with the **live demos** above, then use each repository's README for setup, feature details, testing instructions, and known limitations. The web dashboards keep data in the current browser rather than a remote account; avoid entering confidential information in demo projects.
+
+**[View all repositories](https://github.com/givi588?tab=repositories)**
