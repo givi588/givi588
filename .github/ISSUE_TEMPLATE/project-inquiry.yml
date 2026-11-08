@@ -1,0 +1,70 @@
+name: "Freelance project inquiry"
+description: "Share a small web or Python project idea (public GitHub issue)."
+title: "Project inquiry: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest.
+
+        **This GitHub issue is public.** Do not share passwords, API keys, private
+        files, sensitive customer data, or personal contact details here.
+        Please include only a short, non-confidential project outline.
+        We can arrange a private channel if the project is a good fit.
+
+  - type: dropdown
+    id: service
+    attributes:
+      label: What do you need help with?
+      options:
+        - "Website or landing page"
+        - "JavaScript dashboard or UI improvement"
+        - "Python or CSV automation"
+        - "Bug fix or maintenance"
+        - "Other small project"
+    validations:
+      required: true
+
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to achieve?
+      description: "Describe the desired result and who will use it; avoid confidential details."
+      placeholder: "I need a small tool that turns sample CSV inventory data into a weekly summary."
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Expected features or deliverables
+      description: "List the main requirements and any public reference links (optional)."
+      placeholder: "CSV input, summary totals, downloadable report, short setup instructions."
+    validations:
+      required: false
+
+  - type: input
+    id: schedule
+    attributes:
+      label: Target timeframe
+      description: "Approximate deadline or preferred timeframe (optional)."
+      placeholder: "Within 2-3 weeks"
+    validations:
+      required: false
+
+  - type: input
+    id: budget
+    attributes:
+      label: Approximate budget range
+      description: "Optional; include currency if known."
+      placeholder: "Example: $150-$300 USD"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Privacy check
+      options:
+        - label: "I understand this request is public and contains no secrets or confidential data."
+          required: true
