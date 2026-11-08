@@ -4,7 +4,7 @@ I build **responsive websites, JavaScript dashboards, and Python automation tool
 
 My portfolio focuses on usable interfaces, clear documentation, data validation, and testing. I'm interested in **small, well-defined projects with international clients**.
 
-**[Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml)** · [Explore live demos](#selected-projects) · [Browse source code](https://github.com/givi588?tab=repositories)
+**[Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs)** · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Explore live demos](#selected-projects) · [Browse source code](https://github.com/givi588?tab=repositories)
 
 ## Services
 
@@ -50,6 +50,8 @@ My portfolio focuses on usable interfaces, clear documentation, data validation,
 4. **Handover:** I share the deliverable, setup instructions, and known limitations for acceptance.
 
 ### Have a project in mind?
+
+For HTML, CSS, or JavaScript website fixes, **[view my Fiverr service](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs)** to check the available packages and discuss the scope before ordering.
 
 **[Open a project inquiry on GitHub](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml)** — share the goal, rough scope, target date, and budget range.
 
