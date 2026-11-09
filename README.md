@@ -4,7 +4,7 @@ I build **responsive websites, React applications, JavaScript dashboards, and Py
 
 My portfolio focuses on usable interfaces, clear documentation, data validation, and testing. I'm interested in **small, well-defined projects with international clients**.
 
-**[Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs)** · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Explore live demos](#selected-projects) · [Browse source code](https://github.com/givi588?tab=repositories)
+**[View my portfolio website](https://givi588.github.io/givi-portfolio/)** · [Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs) · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Browse source code](https://github.com/givi588?tab=repositories)
 
 ## Services
 
