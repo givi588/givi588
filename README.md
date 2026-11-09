@@ -1,6 +1,6 @@
-# Givi | Freelance Web & Python Developer
+# Givi | Freelance Web, React & Python Developer
 
-I build **responsive websites, JavaScript dashboards, and Python automation tools** for practical business workflows.
+I build **responsive websites, React applications, JavaScript dashboards, and Python automation tools** for practical business workflows.
 
 My portfolio focuses on usable interfaces, clear documentation, data validation, and testing. I'm interested in **small, well-defined projects with international clients**.
 
@@ -11,7 +11,7 @@ My portfolio focuses on usable interfaces, clear documentation, data validation,
 | Service | Example deliverables |
 | --- | --- |
 | **Websites & landing pages** | Responsive HTML/CSS/JavaScript websites, business information pages, catalogs, mobile layout improvements |
-| **JavaScript tools & dashboards** | Forms, search/filter interfaces, category management, lightweight inventory or sales tracking |
+| **React & JavaScript applications** | Interactive dashboards, task managers, forms, search/filter interfaces, and lightweight inventory or sales tracking |
 | **Python & CSV automation** | Data cleanup, calculations, inventory summaries, CSV exports, repeatable reports |
 | **Small fixes & improvements** | Frontend bug fixes, UI refinements, input validation, documentation, and automated tests |
 
@@ -21,6 +21,7 @@ My portfolio focuses on usable interfaces, clear documentation, data validation,
 
 | Project | Problem it addresses | Demo & source |
 | --- | --- | --- |
+| **React Training Dashboard** | Organize tasks by priority, search and filter progress, and save task updates locally in a responsive React interface. | [Live demo](https://givi588.github.io/react-training-dashboard/) · [Code](https://github.com/givi588/react-training-dashboard) · [Checks](https://github.com/givi588/react-training-dashboard/actions) |
 | **Category Dashboard v1.0** | Organize categories, search and sort records, track totals, and export/import backups with recovery controls. | [Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml) |
 | **Sales & Inventory Manager** | Track products, stock and sales, export CSV reports, and maintain JSON backups in the browser. | [Live demo](https://givi588.github.io/sales-inventory-manager-clean/) · [Code](https://github.com/givi588/sales-inventory-manager-clean) |
 | **Mira Flowers storefront** | Help a real flower shop showcase products, prepare a cart and contact the store about an order. | [Live website](https://givi588.github.io/mira-flowers/) · [Code](https://github.com/givi588/mira-flowers) |
@@ -35,7 +36,7 @@ My portfolio focuses on usable interfaces, clear documentation, data validation,
 
 ## Tools and engineering practices
 
-**HTML · CSS · JavaScript · Python · Git · GitHub Actions · GitHub Pages**
+**HTML · CSS · JavaScript · React · Vite · Python · Git · GitHub Actions · GitHub Pages**
 
 - Responsive layouts, practical UI controls, and accessible labeling.
 - Input validation, data export/import, and documented browser-storage limitations.
