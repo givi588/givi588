@@ -6,6 +6,26 @@ My portfolio focuses on usable interfaces, clear documentation, data validation,
 
 **[View my portfolio website](https://givi588.github.io/givi-portfolio/)** · [Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs) · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Browse source code](https://github.com/givi588?tab=repositories)
 
+## Featured projects
+
+### Websites & landing pages
+
+Responsive HTML/CSS/JavaScript websites, business information pages, catalogs, mobile layout improvements
+
+
+
+### React & JavaScript applications
+
+Interactive dashboards, task managers, forms, search/filter interfaces, and lightweight inventory or sales tracking
+
+
+
+### Small fixes & improvements
+
+Frontend bug fixes, UI refinements, input validation, documentation, and automated tests
+
+
+
 ## Services
 
 | Service | Example deliverables |
@@ -17,19 +37,14 @@ My portfolio focuses on usable interfaces, clear documentation, data validation,
 
 **Scope matters:** I discuss requirements and feasibility before agreeing to a timeline or price. These examples are lightweight applications, not enterprise accounting, payment processing, or security-critical systems.
 
-## Selected projects
-
-These projects demonstrate live business websites, working web tools, and small Python automations. Use the demos to try the web apps, or inspect the code and tests for implementation details.
+## More projects
 
 | Project | Problem it addresses | Demo & source |
 | --- | --- | --- |
+| **Python & CSV automation** | Data cleanup, calculations, inventory summaries, CSV exports, repeatable reports |
 | **Mira Flowers storefront** | Help a real flower shop showcase products, prepare a cart and contact the store about an order. | [Live website](https://givi588.github.io/mira-flowers/) · [Case study](https://givi588.github.io/givi-portfolio/#case-study) · [Code](https://github.com/givi588/mira-flowers) |
 | **Invoice & Quote Studio v1.1 (TypeScript)** | React + TypeScript quote/invoice builder with live calculations, browser-only drafts, JSON backups, and print-to-PDF. | [Live demo](https://givi588.github.io/invoice-quote-studio/) · [Code](https://github.com/givi588/invoice-quote-studio) · [TypeScript lesson](https://github.com/givi588/invoice-quote-studio/blob/main/docs/TYPESCRIPT_LESSON.md) |
 | **Sales & Inventory Manager** | Track products, stock and sales, export CSV reports, and maintain JSON backups in the browser. | [Live demo](https://givi588.github.io/sales-inventory-manager-clean/) · [Code](https://github.com/givi588/sales-inventory-manager-clean) |
-| **Category Dashboard 2.1** | Manage categories in a responsive dark/light dashboard with search, sorting, summary charts, CSV/JSON import and export, and data recovery. | [Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml) |
-| **Python Inventory Manager** | Calculate inventory value, flag low stock, and generate CSV reports from sample data. | [Code & instructions](https://github.com/givi588/python-inventory-manager) |
-| **Python Sales Calculator v1.0.0** | Calculate sales revenue and create basic CSV reports, with automated tests. | [Release](https://github.com/givi588/python-sales-calculator/releases/tag/v1.0.0) · [Code](https://github.com/givi588/python-sales-calculator) |
-| **React Training Dashboard** | Organize tasks by priority, search and filter progress, and save task updates locally in a responsive React interface. | [Live demo](https://givi588.github.io/react-training-dashboard/) · [Code](https://github.com/givi588/react-training-dashboard) · [Checks](https://github.com/givi588/react-training-dashboard/actions) |
 
 ### Category Dashboard 2.1 — interface preview
 
@@ -62,3 +77,4 @@ For HTML, CSS, or JavaScript website fixes, **[view my Fiverr service](https://w
 **Important:** GitHub Issues are **public**. Please do **not** post passwords, API keys, personal contact details, private customer data, or confidential project files. We can agree on a suitable private channel before exchanging sensitive information. An inquiry is not an automatic project acceptance.
 
 [See all repositories](https://github.com/givi588?tab=repositories)
+
