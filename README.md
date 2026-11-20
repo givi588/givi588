@@ -26,14 +26,14 @@ These projects demonstrate live business websites, working web tools, and small 
 | **Mira Flowers storefront** | Help a real flower shop showcase products, prepare a cart and contact the store about an order. | [Live website](https://givi588.github.io/mira-flowers/) · [Case study](https://givi588.github.io/givi-portfolio/#case-study) · [Code](https://github.com/givi588/mira-flowers) |
 | **Invoice & Quote Studio v1.1 (TypeScript)** | React + TypeScript quote/invoice builder with live calculations, browser-only drafts, JSON backups, and print-to-PDF. | [Live demo](https://givi588.github.io/invoice-quote-studio/) · [Code](https://github.com/givi588/invoice-quote-studio) · [TypeScript lesson](https://github.com/givi588/invoice-quote-studio/blob/main/docs/TYPESCRIPT_LESSON.md) |
 | **Sales & Inventory Manager** | Track products, stock and sales, export CSV reports, and maintain JSON backups in the browser. | [Live demo](https://givi588.github.io/sales-inventory-manager-clean/) · [Code](https://github.com/givi588/sales-inventory-manager-clean) |
-| **Category Dashboard v1.0** | Organize categories, search and sort records, track totals, and export/import backups with recovery controls. | [Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml) |
+| **Category Dashboard 2.1** | Manage categories in a responsive dark/light dashboard with search, sorting, summary charts, CSV/JSON import and export, and data recovery. | [Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml) |
 | **Python Inventory Manager** | Calculate inventory value, flag low stock, and generate CSV reports from sample data. | [Code & instructions](https://github.com/givi588/python-inventory-manager) |
 | **Python Sales Calculator v1.0.0** | Calculate sales revenue and create basic CSV reports, with automated tests. | [Release](https://github.com/givi588/python-sales-calculator/releases/tag/v1.0.0) · [Code](https://github.com/givi588/python-sales-calculator) |
 | **React Training Dashboard** | Organize tasks by priority, search and filter progress, and save task updates locally in a responsive React interface. | [Live demo](https://givi588.github.io/react-training-dashboard/) · [Code](https://github.com/givi588/react-training-dashboard) · [Checks](https://github.com/givi588/react-training-dashboard/actions) |
 
-### Category Dashboard — interface preview
+### Category Dashboard 2.1 — interface preview
 
-[![Category Dashboard desktop screenshot](https://raw.githubusercontent.com/givi588/category-dashboard/main/screenshots/v1-desktop.png)](https://givi588.github.io/category-dashboard/)
+[![Category Dashboard 2.1 dark desktop screenshot](https://raw.githubusercontent.com/givi588/category-dashboard/main/screenshots/v2.1-desktop-dark.png)](https://givi588.github.io/category-dashboard/)
 
 *Click the screenshot to try the live application.*
 
