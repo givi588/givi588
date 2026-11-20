@@ -1,10 +1,30 @@
-# Givi | Web Developer — React, TypeScript & Python
+# Givi | Web developer
 
-I build **responsive websites, React and TypeScript applications, JavaScript dashboards, and Python automation tools** for practical business workflows.
+I build responsive websites and dashboards with JavaScript, React, and TypeScript. I also write Python scripts for tasks like cleaning CSV files and calculating inventory totals.
 
-My portfolio focuses on usable interfaces, clear documentation, data validation, and testing. I'm interested in **small, well-defined projects with international clients**.
+I document how to run my projects and write tests for behavior like input validation and data recovery. I'm interested in small projects with international clients.
 
 **[View my portfolio website](https://givi588.github.io/givi-portfolio/)** · [Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs) · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Browse source code](https://github.com/givi588?tab=repositories)
+
+## Featured projects
+
+### Mira Flowers storefront
+
+I built this storefront for a flower shop. Customers can browse the catalog, add flowers to a cart, and contact the shop to request an order.
+
+[Live website](https://givi588.github.io/mira-flowers/) · [Case study](https://givi588.github.io/givi-portfolio/#case-study) · [Code](https://github.com/givi588/mira-flowers)
+
+### Invoice & Quote Studio v1.1 (TypeScript)
+
+A React and TypeScript app for quotes and invoices. Totals update as you edit, and drafts stay in your browser. You can back up drafts as JSON and print documents to PDF.
+
+[Live demo](https://givi588.github.io/invoice-quote-studio/) · [Code](https://github.com/givi588/invoice-quote-studio) · [TypeScript lesson](https://github.com/givi588/invoice-quote-studio/blob/main/docs/TYPESCRIPT_LESSON.md)
+
+### Category Dashboard 2.1
+
+Search and sort inventory categories, see their totals, and recover deleted entries. I test the dashboard in Chromium, Firefox, and WebKit.
+
+[Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml)
 
 ## Services
 
@@ -15,27 +35,20 @@ My portfolio focuses on usable interfaces, clear documentation, data validation,
 | **Python & CSV automation** | Data cleanup, calculations, inventory summaries, CSV exports, repeatable reports |
 | **Small fixes & improvements** | Frontend bug fixes, UI refinements, input validation, documentation, and automated tests |
 
-**Scope matters:** I discuss requirements and feasibility before agreeing to a timeline or price. These examples are lightweight applications, not enterprise accounting, payment processing, or security-critical systems.
+I confirm what's feasible before agreeing to a price or timeline. The examples here cover small websites and tools for everyday work.
 
-## Selected projects
+## More projects
 
-These projects demonstrate live business websites, working web tools, and small Python automations. Use the demos to try the web apps, or inspect the code and tests for implementation details.
-
-| Project | Problem it addresses | Demo & source |
+| Project | What it does | Demo & source |
 | --- | --- | --- |
-| **Mira Flowers storefront** | Help a real flower shop showcase products, prepare a cart and contact the store about an order. | [Live website](https://givi588.github.io/mira-flowers/) · [Case study](https://givi588.github.io/givi-portfolio/#case-study) · [Code](https://github.com/givi588/mira-flowers) |
-| **Invoice & Quote Studio v1.1 (TypeScript)** | React + TypeScript quote/invoice builder with live calculations, browser-only drafts, JSON backups, and print-to-PDF. | [Live demo](https://givi588.github.io/invoice-quote-studio/) · [Code](https://github.com/givi588/invoice-quote-studio) · [TypeScript lesson](https://github.com/givi588/invoice-quote-studio/blob/main/docs/TYPESCRIPT_LESSON.md) |
 | **Sales & Inventory Manager** | Track products, stock and sales, export CSV reports, and maintain JSON backups in the browser. | [Live demo](https://givi588.github.io/sales-inventory-manager-clean/) · [Code](https://github.com/givi588/sales-inventory-manager-clean) |
-| **Category Dashboard 2.1** | Manage categories in a responsive dark/light dashboard with search, sorting, summary charts, CSV/JSON import and export, and data recovery. | [Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml) |
 | **Python Inventory Manager** | Calculate inventory value, flag low stock, and generate CSV reports from sample data. | [Code & instructions](https://github.com/givi588/python-inventory-manager) |
 | **Python Sales Calculator v1.0.0** | Calculate sales revenue and create basic CSV reports, with automated tests. | [Release](https://github.com/givi588/python-sales-calculator/releases/tag/v1.0.0) · [Code](https://github.com/givi588/python-sales-calculator) |
 | **React Training Dashboard** | Organize tasks by priority, search and filter progress, and save task updates locally in a responsive React interface. | [Live demo](https://givi588.github.io/react-training-dashboard/) · [Code](https://github.com/givi588/react-training-dashboard) · [Checks](https://github.com/givi588/react-training-dashboard/actions) |
 
-### Category Dashboard 2.1 — interface preview
+### Category Dashboard 2.1 screenshot
 
 [![Category Dashboard 2.1 dark desktop screenshot](https://raw.githubusercontent.com/givi588/category-dashboard/main/screenshots/v2.1-desktop-dark.png)](https://givi588.github.io/category-dashboard/)
-
-*Click the screenshot to try the live application.*
 
 ## Tools and engineering practices
 
@@ -57,7 +70,7 @@ These projects demonstrate live business websites, working web tools, and small 
 
 For HTML, CSS, or JavaScript website fixes, **[view my Fiverr service](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs)** to check the available packages and discuss the scope before ordering.
 
-**[Open a project inquiry on GitHub](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml)** — share the goal, rough scope, target date, and budget range.
+**[Open a project inquiry on GitHub](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml)** and share your goal, rough scope, target date, and budget range.
 
 **Important:** GitHub Issues are **public**. Please do **not** post passwords, API keys, personal contact details, private customer data, or confidential project files. We can agree on a suitable private channel before exchanging sensitive information. An inquiry is not an automatic project acceptance.
 
