@@ -6,6 +6,12 @@ I document how to run my projects and write tests for behavior like input valida
 
 **[View my portfolio website](https://givi588.github.io/givi-portfolio/)** · [Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs) · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Browse source code](https://github.com/givi588?tab=repositories)
 
+## Open Source Contributions
+
+My first open-source contribution was to **Disciplr Backend**. I expanded the OpenAPI spec to document API key management and the OAuth client credentials exchange, and added tests for the new spec entries.
+
+[PR #1880 (merged)](https://github.com/Disciplr-Org/Disciplr-backend/pull/1880) · [Issue #1848 (closed)](https://github.com/Disciplr-Org/Disciplr-backend/issues/1848) · 100 points earned in Stellar Wave 11
+
 ## Featured projects
 
 ### Mira Flowers storefront
@@ -24,7 +30,7 @@ A React and TypeScript app for quotes and invoices. Totals update as you edit, a
 
 Search and sort inventory categories, see their totals, and recover deleted entries. I test the dashboard in Chromium, Firefox, and WebKit.
 
-[Live demo](https://givi588.github.io/category-dashboard/) · [Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml)
+[Code](https://github.com/givi588/category-dashboard) · [Tests](https://github.com/givi588/category-dashboard/actions/workflows/javascript-tests.yml)
 
 ## Services
 
@@ -48,7 +54,7 @@ I confirm what's feasible before agreeing to a price or timeline. The examples h
 
 ### Category Dashboard 2.1 screenshot
 
-[![Category Dashboard 2.1 dark desktop screenshot](https://raw.githubusercontent.com/givi588/category-dashboard/main/screenshots/v2.1-desktop-dark.png)](https://givi588.github.io/category-dashboard/)
+[![Category Dashboard 2.1 dark desktop screenshot](https://raw.githubusercontent.com/givi588/category-dashboard/main/screenshots/v2.1-desktop-dark.png)](https://github.com/givi588/category-dashboard)
 
 ## Tools and engineering practices
 
