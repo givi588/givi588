@@ -1,3 +1,5 @@
+![Givi — Web Development, Python, and Game Development. React, TypeScript, Python, and Godot.](assets/profile-header.svg)
+
 # Givi | Web developer
 
 I build responsive websites and dashboards with JavaScript, React, and TypeScript. I also write Python scripts for tasks like cleaning CSV files and calculating inventory totals.
@@ -13,6 +15,14 @@ My first open-source contribution was to **Disciplr Backend**. I expanded the Op
 [PR #1880 (merged)](https://github.com/Disciplr-Org/Disciplr-backend/pull/1880) · [Issue #1848 (closed)](https://github.com/Disciplr-Org/Disciplr-backend/issues/1848) · 100 points earned in Stellar Wave 11
 
 ## Featured projects
+
+### Pandora: The Forbidden Gift
+
+An original first-person 3D puzzle set in a Greek-inspired temple. Opening Pandora’s box releases a stone bridge and starts a tremor. Closing the lid makes the crossing safe.
+
+I designed the puzzle, directed development, and manually play-tested the Windows release. The game was built with Godot and GDScript, procedural Blender models, and Codex-assisted implementation.
+
+[Windows release](https://github.com/givi588/pandora-the-forbidden-gift/releases/tag/v1.0.0) · [Gameplay video](https://github.com/user-attachments/assets/1a32faf0-f872-4d53-a1d5-d9da2477fac7) · [Source code](https://github.com/givi588/pandora-the-forbidden-gift)
 
 ### Mira Flowers storefront
 
