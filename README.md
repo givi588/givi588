@@ -4,7 +4,7 @@ I build responsive websites and dashboards with JavaScript, React, and TypeScrip
 
 I document how to run my projects and write tests for behavior like input validation and data recovery. I'm interested in small projects with international clients.
 
-**[View my portfolio website](https://givi588.github.io/givi-portfolio/)** · [Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs) · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Browse source code](https://github.com/givi588?tab=repositories)
+**[View my portfolio website](https://givi588.github.io/givi-portfolio/)** · [Website bug fixes on Fiverr](https://www.fiverr.com/givi588/fix-html-css-and-javascript-website-bugs) · [Discuss a project](https://github.com/givi588/givi588/issues/new?template=project-inquiry.yml) · [Email](mailto:pruidzegivi@gmail.com) · [Browse source code](https://github.com/givi588?tab=repositories)
 
 ## Open Source Contributions
 
