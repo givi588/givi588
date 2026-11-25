@@ -1,3 +1,5 @@
+![Givi — Web Development, Python, and Game Development. React, TypeScript, Python, and Godot.](assets/profile-header.svg)
+
 # Givi | Web developer
 
 I build responsive websites and dashboards with JavaScript, React, and TypeScript. I also write Python scripts for tasks like cleaning CSV files and calculating inventory totals.
