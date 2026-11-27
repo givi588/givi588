@@ -14,6 +14,12 @@ My first open-source contribution was to **Disciplr Backend**. I expanded the Op
 
 [PR #1880 (merged)](https://github.com/Disciplr-Org/Disciplr-backend/pull/1880) · [Issue #1848 (closed)](https://github.com/Disciplr-Org/Disciplr-backend/issues/1848) · 100 points earned in Stellar Wave 11
 
+### Educhain Academy — Issuer onboarding guide
+
+I wrote and testnet-validated a technical onboarding guide for educational credential issuers, covering issuer registration, SHA-256 credential anchoring, verification, and revocation on Stellar/Soroban. The guide includes CLI examples, contract parameter references, and a sequence diagram. The PR documents ten confirmed testnet transactions and an existing upstream dependency audit blocker.
+
+[PR #22 (merged)](https://github.com/Primex-tech-labs/Educhain-Academy/pull/22) · [Issue #8](https://github.com/Primex-tech-labs/Educhain-Academy/issues/8) · [Issuer guide](https://github.com/Primex-tech-labs/Educhain-Academy/blob/main/docs/issuer-guide.md)
+
 ## Featured projects
 
 ### Pandora: The Forbidden Gift
